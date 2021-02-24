@@ -29,14 +29,14 @@ After installation, a new file should appear. You window should appear as:
 Ensure that you've selected the correct port and board:
 
 <p align="left">
-        <img src="C:\Users\rasha\OneDrive\Documents\GitHub\Installation-of-Arduino-IDE\tools.png" width="50%">
+        <img src="tools.png" width="50%">
 />
 </p>
 
 # Schematic
 
 <p align="left">
-        <img src="C:\Users\rasha\OneDrive\Documents\GitHub\Installation-of-Arduino-IDE\circuit.png" width="50%">
+        <img src="circuit.png" width="50%">
 />
 </p>
 
