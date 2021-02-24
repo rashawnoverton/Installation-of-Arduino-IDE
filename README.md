@@ -22,7 +22,7 @@ The Arduino IDE can be dowloaded for free at https://www.arduino.cc/en/software
 After installation, a new file should appear. You window should appear as:
 
 <p align="left">
-        <img src="C:\Users\rasha\OneDrive\Documents\GitHub\Installation-of-Arduino-IDE\basic_view.png" width="50%">
+        <img src="basic_view.png" width="50%">
 />
 </p>
 
