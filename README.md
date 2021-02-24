@@ -56,6 +56,7 @@ void loop() {
   digitalWrite(LED, LOW);  // Turn LED off
   delay(1000);             // Wait 1 second
 }
+```
 
 ## Contributions
 Documentation - Isaiah Overton, Southern Illinois University - Carbondale
